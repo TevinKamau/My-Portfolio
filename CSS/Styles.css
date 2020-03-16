@@ -9,7 +9,8 @@ h1 {
     font-style: italic;
     text-align: center;
   }
-  .more {color: red;
+  .more {
+      color: red;
     font-family: courier;
     font-size: 160%;
     border: 1px solid powderblue;
@@ -18,7 +19,10 @@ h1 {
 .important {
     color: turquoise;
   }
-.Allan {font-family: verdana;
+.Allan {
+    font-family: verdana;
     font-size: 160%;
 }
-
+body{
+    background-color: tomato;
+}
