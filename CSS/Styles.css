@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: verdana;
+    font-size: 300%;
+  }
+  h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+  }
+  .more {color: red;
+    font-family: courier;
+    font-size: 160%;
+    border: 1px solid powderblue;
+  padding: 30px;
+}
+.important {
+    color: turquoise;
+  }
+.Allan {font-family: verdana;
+    font-size: 160%;
+}
+
